@@ -90,9 +90,3 @@ To achieve this goal, a comprehensive analysis of delivery data was conducted, f
 - **Strategic Decision-making:**
   - Shifted focus towards Full Truck Load (FTL) shipments based on route efficiency analysis, resulting in a 25% increase in delivery speed for FTL shipments compared to carting.
 
-- **Collaboration and Stakeholder Engagement:**
-  - Collaborated with stakeholders to develop comprehensive strategies for managing transportation in busy corridors, resulting in improved transportation efficiency and reduced congestion.
-
-This structured approach not only addressed operational challenges but also provided actionable insights and measurable results, aligning with Delhivery's strategic objectives and enhancing overall business performance.
-
-
